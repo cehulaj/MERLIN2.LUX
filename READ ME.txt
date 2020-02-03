@@ -1,0 +1,25 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%                              MERLIN2.LUX                              %%
+%         Original MERLIN2 written by: Ke Liu (ke.liu@gatech.edu)         %
+%    Modified to MERLIN2.LUX by: Jakub Cehula (jakub.cehula@gmail.com)    %
+% Ref: K. Liu, G. H. Paulino (2017). 'Nonlinear mechanics of non-rigid    %
+%      origami - An efficient computational approach.' PRSA.              %
+%      K. Liu, G. H. Paulino (2016). 'MERLIN: A MATLAB implementation to  %
+%      capture highly nonlinear behavior of non-rigid origami.'           %
+%      Proceedings of IASS Annual Symposium 2016.                         %
+%      E. T. Filipov, K. Liu, T. Tachi, M. Schenk, G. H. Paulino (2017).  %
+%      'Bar and hinge models for scalable analysis of origami.'  IJSS     %
+%      K. Liu, G. H. Paulino (2018). 'Highly efficient nonlinear          %
+%      structural analysis of origami assemblages using the MERLIN2       %
+%      software.' Origami^7.                                              %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Description and instruction about the MERLIN2 software can be found in:
+K. Liu, G. H. Paulino (2018). 'Highly efficient nonlinear structural 
+analysis of origami assemblages using the MERLIN2 software.' Origami^7.
+
+Please contact Ke Liu at ke.liu@gatech.edu if you find any bugs or need 
+support using MERLIN2.
+
+If you find any bugs in the modification to MERLIN2 or need support using
+MERLIN2.LUX please contact Jakub Cehula at jakub.cehula@gmail.com.

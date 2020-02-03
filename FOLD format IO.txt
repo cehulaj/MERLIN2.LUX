@@ -1,0 +1,4 @@
+The FOLD (Flexible Origami List Datastructure) format
+(https://github.com/edemaine/fold) is now supported by MERLIN/MERLIN2/MERLIN2.LUX,
+thanks to the contribution of Steven Grey (steven.grey@bristol.ac.uk).
+The Matlab functions can be found at: https://github.com/sgrey93/FOLD2MERLIN-MATLAB. 
