@@ -12,6 +12,9 @@
 %      K. Liu, G. H. Paulino (2018). 'Highly efficient nonlinear          %
 %      structural analysis of origami assemblages using the MERLIN2       %
 %      software.' Origami^7.                                              %
+%      J. Cehula, V. Průša (2020). 'Computer modelling of origami-like    %
+%      structures made of light activated shape memory polymers.'         %
+%      International Journal of Engineering Science.                      %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 Description and instruction about the MERLIN2 software can be found in:
